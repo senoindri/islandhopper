@@ -34,7 +34,6 @@ No installation required.
 
 ## Future Improvements
 
-- Multiple maps
 - Difficulty levels
 - Daily maps
 - High score leaderboard
