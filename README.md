@@ -4,7 +4,7 @@ An interactive browser game built using HTML, CSS, and JavaScript.
 
 ## 🎮 Play
 
-https://https://island-hopper-1-4.vercel.app/
+https://https://island-hopper-1-4.vercel.app
 
 ## Features
 
